@@ -1,4 +1,5 @@
 name: SPX500 CRT Scanner
+
 on:
   schedule:
     - cron: "*/30 * * * *
